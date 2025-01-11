@@ -1,0 +1,218 @@
+   /*aboutus*/
+.about{
+	margin-left:20%;
+	margin-top:20px;}
+.aboutdesc{		
+	margin-left: 20%;
+	font-size: larger;
+	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+	font-weight: bold;		}
+.aboutteamhistory{
+	margin-left:20%;
+	margin-top:20px;
+	border-radius: 10px;}
+.abouttaga{
+	margin-left:160px;
+	background-color:red;
+	text-decoration:none;
+	padding:10px 4px 6px 3px;}
+.aboutp1{
+	margin-left:160px;
+	font-size: 20px;	}
+#aboutrecalls{
+	margin-left:10%;
+	margin-top:20px;	}
+#abouttaga2{
+	margin-left:280px;
+	background-color:red;
+	text-decoration:none;
+	padding:10px 4px 6px 3px;	}
+#Recallp1{
+	margin-left:20%;}
+/*mccafe*/
+		
+h1{
+	margin-top:50px;
+	text-align:center;
+	font-size:50px;	
+}
+#head1,#p1{
+	text-align:center;
+	color:gray;
+}
+.btn2 {
+	background-color: white; 
+	color: black; 
+	border: 2px solid #008CBA;
+	padding:13px;
+	margin-left: 150px;
+	border-radius: 8px;
+}
+.btn2:hover {
+	background-color: #008CBA;
+	color: white;
+}	  
+.rewards{
+	margin-top:120px;
+}
+#head2{
+	text-align:center;
+}
+#mcafetaga
+{
+	background-color:red;
+	text-decoration:none;
+	padding:10px 4px 6px 3px;
+	margin-left:220px;
+}
+.coffe
+		     
+{
+	margin-top:80px;
+}
+.mcafetaga1{
+	background-color:red;
+	text-decoration:none;
+	padding:10px 4px 6px 3px;
+}
+#premiumroast{margin-top:60px;
+	margin-left:70px;//text-align:left;\}
+#paragraph{margin-left:170px;
+}
+#mcafetaga2
+{
+	margin-left:170px;
+	background-color:red;
+	text-decoration:none;
+	padding:10px 4px 6px 3px;
+}
+							
+/*location*/
+#h1loc
+{
+	margin-left:190px;
+	font-size:30px;
+	border:hidden;
+}
+#serachlogo
+{
+	margin-left:40px;
+//background-color:tomato;
+}
+.locdiv
+{
+	border:solid green;
+	width:50%;
+	margin-left:200px;margin-right:200px;
+}
+.location
+{
+	width:1400px;
+	height:800px;
+}
+/*exclusivedeals*/
+#h1exclusive
+	{
+		font-family:arial;
+	}
+	#exclusive1{
+		margin-left:20%;
+		margin-top:50px;
+		
+	}
+	#exa
+	{
+		margin-left:20px;
+		background-color:tomato;
+		text-decoration:none;
+	padding:10px 4px 4px 3px;
+	
+	}
+	#exa:hover
+	{
+	   background-color:yellow;
+	}
+	.exclusiveimage
+	{
+		margin-top:50px;
+	}
+	#exclusiveimage1{
+	margin-left:15%;
+	margin-top:50px;
+	float:left;
+	}
+	#exclusivep1
+	{
+		font-family:arial;
+		margin-top:80px;
+		margin-left:45%;	
+	}
+	#exa1
+	{   margin-top:70px;
+		margin-left:20%;
+		background-color:tomato;
+		text-decoration:none;
+	padding:10px 4px 4px 3px;
+	}
+	#exa1:hover
+	{
+	   background-color:yellow;
+	}
+	 /*aboutourfood*/
+	#h1food
+	{
+		font-family:arial;
+	
+	}
+	
+	#food1
+	{
+		margin-left:25%;
+		margin-top:50px;
+		
+	}
+	
+	.foodh1p
+	{
+		margin-left:15%;
+	}
+	.fooda
+	{
+		background-color:red;
+								text-decoration:none;
+	                            padding:10px 4px 6px 3px;
+	}
+	
+				
+	.foodimage
+	{
+		margin-top:50px;
+		
+	}
+	 /*contact*/
+	 #contact
+	{
+		margin-left:-120px;
+		//font-size:40px;
+	}
+	
+	.contimg
+       {
+		margin-left:140px;
+		margin-top:30px;
+	   
+	   }
+	   #conta1
+	   {
+		margin-left:220px;
+		margin-top:30px;
+		background-color:red;
+		text-decoration:none;
+	    padding:10px 4px 6px 3px;
+	   }
+	   .loctaga
+	   {
+	   background-color:red;
+		text-decoration:none;
+	    padding:10px 4px 6px 3px;
+	   }

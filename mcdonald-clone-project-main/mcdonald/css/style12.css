@@ -1,0 +1,97 @@
+li{
+	display:block;
+	list-style:none;
+	float:left;
+	padding:0px 0px 0px 10px; 
+	margin-left:10px;	
+}
+.barform{
+	margin:0px 0px 0px 200px;
+}
+#barp1{
+	border:1px groove;
+	background-color:yellow;
+	height:60px; 
+	width:90px;
+	font-size:20px; 
+	text-align:center;
+	margin:0px 0px 0px -40px;
+}
+a{
+}	text-decoration:none;	
+	color:black;
+
+.bar1:hover{
+	background:#FFD300;
+	font-size:20px;
+}
+hr{
+	border: 1px dashed;
+}
+#homeimage1{
+	background-attachment:fixed;
+	float:center;
+	margin:0px 0px 0px 30px;
+}
+.container{
+	max-width:400px;
+	max-height:400px;
+	margin:auto;
+	overflow:auto;
+	background-color:white;
+}
+.homeimage1
+{
+	position:absolute;
+	top: 10px;
+	left: 10px;
+	z-index: 1;
+}
+.container
+{
+	position:absolute;
+	margin:150px 0px 0px 55px;
+	z-index: 2;
+}
+#home_button{
+	background-color:yellow;
+	border:1px groove;
+}	  
+#home2ndfrm{
+	max-width:400px;
+	 max-height:600px;
+	 margin:550px 0px 0px 20px;
+}	  
+.home_scd_phg{
+	height:200px;
+	width:400px;
+}	  
+td{
+	padding:0px 90px 10px 50px;
+	font-family: Arial;		 
+}		
+#menutr1{
+	padding:0px 0px 10px 0px; 
+}
+#homehr{
+	border:5px inset;
+	border-color:grey;
+}
+.hometd1{
+	font-size:20px;
+}
+.downwardhome{
+	margin:100px 0px 0px 40px;
+}
+
+.menucontainer{
+	margin:10px 0px 0px 350px;
+}
+th{
+	padding:10px 120px  0px 0px;
+}
+#menubody{
+	background-image:url("../images/bgdimage1.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+}
